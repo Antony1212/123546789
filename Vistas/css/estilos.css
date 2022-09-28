@@ -1,0 +1,74 @@
+.bodyLogin{
+	
+
+	background-image: url(https://img.freepik.com/vector-gratis/circuitos-fondo-digital-degradado-azul-rojo_23-2148821701.jpg?w=2000);
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.loginDiv{
+	
+	
+	top: 20vh;
+	position: relative;
+	background-color: white;
+	width: auto;
+	border-radius: 60px;
+	height: auto;
+	
+	
+   
+}
+.intDiv{
+	
+	top: 20vh;
+	position: relative;
+	background-color: white;
+	width: auto;
+	border-radius: 60px;
+	height: auto;
+	
+	
+   
+}
+.loginContainer{
+	
+	padding: 20px;
+
+}
+.loginTitle{
+
+	width: 100%;
+	text-align: center;
+
+}
+.loginTitle h5{
+
+	font-weight: bold;
+	
+}
+.findbtn{
+
+	background-color: #35b13b;
+}
+.borrarbtn{
+
+	background-color: red;
+}
+.editarbtn{
+
+	background-color: #448AFF;
+}
+.editaribli{
+	background-color: burlywood;
+}
+
+.sidenav {
+    box-shadow: none;
+    background-color: #448AFF;
+}
+.table {
+	border: red 5px solid;
+  }
+
